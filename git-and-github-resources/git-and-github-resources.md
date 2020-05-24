@@ -35,5 +35,3 @@ rm filename.format           # Deletes the file
 rmdir foldername             # Deletes the folder
 ```
 
-Sometimes, after creating a release, you have to update the tags on local repo. To do so, use : `git fetch --tags -f`
-
