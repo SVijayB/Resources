@@ -6,7 +6,9 @@ description: My Personal Notes and Resources
 
 ## How to Explore
 
-If this is your first time here, you can use the sidebar on the left to navigate through the content. If you know what you are looking for, use the search bar in the top right corner.
+If this is your first time here, you can use the sidebar on the right to navigate through the content. 
+
+If you know what you are looking for, use the search bar in the top left corner.
 
 ## Motivation
 
