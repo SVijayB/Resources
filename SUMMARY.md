@@ -7,4 +7,5 @@
 * [Getting Started](git-and-github-resources/git-and-github-resources.md)
 * [Git Basics](git-and-github-resources/git.md)
 * [Committing Changes](git-and-github-resources/committing-changes.md)
+* [Deleting Commits](git-and-github-resources/deleting-commits.md)
 
