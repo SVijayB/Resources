@@ -4,14 +4,11 @@ description: Deleting Commits Made
 
 # Deleting Commits
 
-## Deleting changes
-
 Three different types:
 
-Checkout commit - To view commit.  
+Checkout commit - To view commits.  
          Revert commit - To remove a particular commit in time.  
-         Reset commit - To go back in time and delete all other commits.  
-
+         Reset commit - To go back in time and delete all other commits.
 
 ### **Reverting Commits**
 
