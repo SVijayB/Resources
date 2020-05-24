@@ -4,8 +4,6 @@ description: Installing and Configuring Git
 
 # Git Basics
 
-## Git
-
 Install the latest stable version of git from [here](https://git-scm.com/)
 
 ### **Checking if Git is installed**
