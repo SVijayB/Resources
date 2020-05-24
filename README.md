@@ -12,7 +12,7 @@ If this is your first time here, you can use the sidebar on the left to navigate
 
 It becomes hard to manage notes and resources as you start gathering information from different places and cluster them together. 
 
-This solves that problem and also,  saves them on the cloud for ease of access at anytime. 
+This is an attempt at solving that problem. It also,  saves them on the cloud for ease of access at anytime. 
 
 ## About Me
 
