@@ -2,7 +2,7 @@
 description: A simple and easy to understand guide towards getting started with GitHub
 ---
 
-# Git And GitHub Resources
+# Getting Started
 
 ## Getting Started with Git And GitHub
 
@@ -19,11 +19,9 @@ GitHub uses Git, the most popular open source version control software, to track
 
 ## What you are going to learn
 
-* Issues, pull requests, and the structure of a GitHub repository
+* Committing 
+* Deleting Changes
 * Branching
-* Commit
-* Viewing and responded to pull request reviews
-* Editing an existing file
 
 ## Simple cmd commands you might need :
 
@@ -36,32 +34,6 @@ notepad filename.format      # Opens the file in notepad
 rm filename.format           # Deletes the file
 rmdir foldername             # Deletes the folder
 ```
-
-## Git
-
-### **Checking if Git is installed**
-
-```text
-git --version
-```
-
-### Setting up Git
-
-```text
-git config --global user.name yourname
-git config --global user.email youremailid
-```
-
-### **Viewing user config**
-
-```text
-git config user.name
-```
-
-### Creating a local repository
-
-cd to directory  
- `git init`
 
 ### **Moving a file to the staging area\(Before committing\)**
 
