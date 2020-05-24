@@ -35,27 +35,6 @@ rm filename.format           # Deletes the file
 rmdir foldername             # Deletes the folder
 ```
 
-### **Moving a file to the staging area\(Before committing\)**
-
-```text
-git add filename.format
-git add .                         # Adds all the files in directory
-git rm --cached filename.format   # Removes the file from staging.
-```
-
-### **Committing changes**
-
-```text
-git commit -m "Enter descriptive information"
-```
-
-### **Viewing commit history**
-
-```text
-git log
-git log --oneline             # Abstract view of commits
-```
-
 ### Reverting changes
 
 Three different types:

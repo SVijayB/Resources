@@ -2,7 +2,7 @@
 description: Installing and Configuring Git
 ---
 
-# Git
+# Git Basics
 
 ## Git
 
