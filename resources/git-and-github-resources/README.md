@@ -2,7 +2,7 @@
 description: A simple and easy to understand guide towards getting started with GitHub
 ---
 
-# Getting Started
+# Git And GitHub Resources
 
 ## Getting Started with Git And GitHub
 

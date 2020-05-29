@@ -2,12 +2,12 @@
 
 * [Introduction](README.md)
 
-## Git And GitHub Resources
+## Resources
 
-* [Getting Started](git-and-github-resources/git-and-github-resources.md)
-* [Git Basics](git-and-github-resources/git.md)
-* [Committing Changes](git-and-github-resources/committing-changes.md)
-* [Branching](git-and-github-resources/branching.md)
-* [Deleting Commits](git-and-github-resources/deleting-commits.md)
-* [Miscellaneous](git-and-github-resources/miscellaneous.md)
+* [Git And GitHub Resources](resources/git-and-github-resources/README.md)
+  * [Git Basics](resources/git-and-github-resources/git.md)
+  * [Committing Changes](resources/git-and-github-resources/committing-changes.md)
+  * [Branching](resources/git-and-github-resources/branching.md)
+  * [Deleting Commits](resources/git-and-github-resources/deleting-commits.md)
+  * [Miscellaneous](resources/git-and-github-resources/miscellaneous.md)
 
