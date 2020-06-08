@@ -4,7 +4,7 @@ description: The different Vim Editor Modes
 
 # Vim Modes
 
-Once you have installed the Vim extension on VS Code, you can notice in the bottom the mode you are using. Namely Insert, Normal, Command, Visual and Replace Mode.
+Once you have installed the Vim extension on VS Code, you can notice at the bottom of your IDE, the mode you are using. Namely Insert, Normal, Command, Visual and Replace Mode.
 
 ### Normal Mode
 
@@ -18,21 +18,21 @@ Insert mode, is the default mode in all the text editors. It's the mode in which
 
 To enter Insert mode, just press `i` when in normal mode or just press the `insert` button present on your keyboard. 
 
-There are other keys as well. 
+There are other command keys as well. 
 
-* If you press `a` key, the cursor moves after the current character and enters insert mode. 
-* If you press the `o` key, a new line below the current line is created and you enter the insert mode.
+* If you press the `a` key, the cursor moves after the current character and enters insert mode. 
+* If you press the `o` key, a new line below the current line is created and you enter insert mode.
 * The upper case `I (shift + i)`moves the cursor to the beginning of the line and enters insert mode.
 * Upper case `A (shift + a)`moves the cursor to the end of the line and enters insert mode.
 * Upper case `O (shift + o)`creates a new line above the current one and enters insert mode.
 
 ### Visual Mode
 
-The Visual mode is used select text or lines of code on the editor. It's like using your mouse to select text by clicking and dragging. When selected, you can copy, delete, replace and do other tasks on the selected lines.
+The Visual mode is used to select text or lines of code on the editor. It's like using your mouse to select text by clicking and dragging. When selected, you can copy, delete, replace and do other tasks on the selected lines.
 
 To enter Visual mode, just press `v` on normal mode.
 
-There are different sub-modes in the Visual mode : 
+There are different sub-modes in Visual mode : 
 
 * block-visual : Used to select a large scale or blocks of codes. To enter this mode, press `ctrl + v`.
 * linewise-visual: This always select the complete line. You can enter this by pressing `shift + v`.
@@ -45,9 +45,9 @@ You can use `:h` or `:help` for more options and commands.
 
 ### Replace mode
 
-The replace mode is used to type over the pre-existing code/text. To enter this mode, switch to normal mode and press `R (shift +r )`. Now whatever you type will replace the existing text. Every character you type will replace the existing one.
+The replace mode is used to type over the pre-existing code/text. To enter this mode, switch to normal mode and press `R (shift + r)`. Now whatever you type will replace the existing text. Every character you enter will replace the existing one.
 
 ### Documentation
 
-You can learn more about Vim commands by reading through Vim's documentations. You can find them [here](https://vimhelp.org/).
+You can learn more about Vim commands by going through Vim's documentations. You can find them [here](https://vimhelp.org/).
 
