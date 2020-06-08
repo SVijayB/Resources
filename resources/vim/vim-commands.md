@@ -23,5 +23,29 @@ You can add a number at the beginning of these commands, like `4j`or `5l`.This w
 
 **Note** : You can execute the same command multiple times by adding a number at the beginning. Using the Upper case of each of these commands also work. They go to the word mentioned before or after a white-space.  
 
+### Moving between lines
+
+* Press **0** to move to the beginning of the line.
+* Pressing **$ \(Shift + 4\)** moves to the end of the line.
+* Pressing the  **^ \(Shift + 6\)** to move to the first character of the line.
+* You can also move to the corresponding brackets by using **% \(Shift + 5\)**
+
+### Finding Occurrences
+
+* Use **f** to go to the first occurrence of a character. That is, If you press **f**   followed by a word, or a character, the cursor moves to that position.
+* Using **F \(Shift + f\)** goes to the first occurrence of a character backwards. 
+* To search for a word, occurrence just use `/(type the word here)` and then press enter. This, takes you to the first occurrence. Now, press **n** to go to the next occurrence. You can also use  **N \(Shift + n\)** to move to the previous occurrence. 
+* To search backwards \(From the end of the file\), use **? \(Shift + /\)**.
+* When searching backwards, the roles of **n** and **N** are opposite.
+
+### Copy, Paste, Delete and Undo
+
+* To copy a line, just press **y** twice. 
+* To paste, press **p**
+* To paste on top of the current line, press **P \(Shift + p\)**.
+* To delete, press **d** twice. 
+
+ **Note** : The delete line is automatically copied to your clipboard. 
+
 
 
