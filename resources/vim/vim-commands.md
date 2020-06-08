@@ -27,7 +27,7 @@ You can add a number at the beginning of these commands, like `4j`or `5l`.This w
 
 * Press **0** to move to the beginning of the line.
 * Pressing **$ \(Shift + 4\)** moves to the end of the line.
-* Pressing the  **^ \(Shift + 6\)** to move to the first character of the line.
+* Press the  **^ \(Shift + 6\)** to move to the first character of the line.
 * You can also move to the corresponding brackets by using **% \(Shift + 5\)**
 
 ### Finding Occurrences
