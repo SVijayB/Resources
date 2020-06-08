@@ -47,5 +47,18 @@ You can add a number at the beginning of these commands, like `4j`or `5l`.This w
 
  **Note** : The delete line is automatically copied to your clipboard. 
 
+### Selection Mode Commands
+
+* First enter visual mode by pressing **v**.
+* In visual mode, you can change indentation by using the **&lt; \(Shift + ,\)** or the &gt; **\(Shift + .\) .**
+* You can switch between upper and lower case by using **~ \(Shift + \`\)** 
+* You can mark the nearest block with parenthesis by first pressing **a** and then followed by **b**.
+* You can also mark the nearest block within brackets by first pressing **a** followed by **B \(Shift + b\)**
+* If you replace the **a** with **i** in the above two commands, you can select only the contents within the brackets/parenthesis \(without the brackets\). 
+
+**Note** : You can use `.` to repeat the latest command.
+
+There are several methods to learn Vim commands easily. However, there is a more fun and intuitive method, there is a game called the Vim adventures that lets you learn Vim commands easily. Click [here ](https://vim-adventures.com/)to play Vim adventures. 
+
 
 
