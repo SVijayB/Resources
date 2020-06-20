@@ -14,3 +14,15 @@ git fetch --tags -f
 
 Sometimes, when you are working on a feature but you have a more pressing issue to deal with, you can use Git Stash. It is used to save changes that you are not ready to commit yet and hence gives you a clean working tree to pull or push changes. 
 
+To store current work with untracked files :
+
+```text
+git stash -u
+```
+
+To bring the stashed work back to the directory:
+
+```text
+git stash pop
+```
+
