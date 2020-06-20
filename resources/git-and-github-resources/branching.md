@@ -47,11 +47,21 @@ git push origin branchname    # Creates branch in GitHub and pushes all changes 
 
 Now compare changes and create pull request on GitHub.
 
-**Note** : Before you create a new branch, always make sure you have the latest version of master on your local repo. To do this, use : `git pull origin master`
+### Updating the feature branch
+
+After merging pull requests from various branches, our master branch might be a few commits ahead of our feature branch. In order to even the feature and master branch, we have to merge changes. To do this, use :
+
+```text
+git checkout branchname     # The feature branch you want to update
+git merge master            # Updates the branch
+git push                    # Updates the feature branch on the remote repository
+```
 
 ### **Deleting branch history**
 
 ```text
 git remote prune origin
 ```
+
+**Note** : Before you create a new branch, always make sure you have the latest version of master on your local repository. To do this, use : `git pull origin master`
 

@@ -26,5 +26,6 @@ git revert commitcode
 ```text
 git reset commitcode            # Resets back to the needed commit. But, retains the code if you still want to use it.
 git reset commitcode --hard     # Resets back to the needed commit. Deletes all the code and there is no reverting back.
+git push --force                # Updating remote repository. 
 ```
 
