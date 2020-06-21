@@ -56,5 +56,3 @@ The directory that you are currently browsing is called the present working dire
 
 ![](../../.gitbook/assets/pwd.png)
 
-
-

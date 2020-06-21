@@ -4,7 +4,7 @@
 
 ## Resources
 
-* [Linux Terminal Commands](resources/linux-terminal-commands/README.md)
+* [Terminal Commands](resources/linux-terminal-commands/README.md)
   * [Getting Started](resources/linux-terminal-commands/getting-started.md)
   * [Terminal File Manager](resources/linux-terminal-commands/terminal-file-manager.md)
 * [Vim](resources/vim/README.md)

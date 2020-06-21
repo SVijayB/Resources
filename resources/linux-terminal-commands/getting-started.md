@@ -1,5 +1,5 @@
 ---
-description: Launching and understanding components of the termina
+description: Launching and understanding components of the terminal
 ---
 
 # Getting Started

@@ -2,7 +2,7 @@
 description: Getting started with using the terminal on Linux
 ---
 
-# Linux Terminal Commands
+# Terminal Commands
 
 ![Ubuntu terminal](../../.gitbook/assets/linux.png)
 
