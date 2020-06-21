@@ -6,6 +6,7 @@
 
 * [Linux Terminal Commands](resources/linux-terminal-commands/README.md)
   * [Getting Started](resources/linux-terminal-commands/getting-started.md)
+  * [Terminal File Manager](resources/linux-terminal-commands/terminal-file-manager.md)
 * [Vim](resources/vim/README.md)
   * [Getting Started](resources/vim/getting-started.md)
   * [Vim Modes](resources/vim/vim-modes.md)
