@@ -29,5 +29,19 @@ Once you launch the terminal, you can see something similar to what is shown bel
 
 ![](../../.gitbook/assets/root-user.png)
 
+## Things to remember 
 
+### Help
+
+If you are not sure about a command, just type the command followed by `--help` .
+
+Example : `cd --help` .
+
+### Cycling through commands
+
+You can use up and down `arrow keys` to cycle between commands you've used earlier.
+
+### Clearing screen
+
+If you've used too many commands and want to clear your terminal screen for better view, use the `clear` command.
 
