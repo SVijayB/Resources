@@ -19,10 +19,15 @@ Once you launch the terminal, you can see something similar to what is shown bel
 
 ![](../../.gitbook/assets/basics.png)
 
-1. The first part of the line is the name of the user \(vijay\).
-2. The second part is the computer name or the host name.
-3. The tilde '~' sign shows that the user in working in the **home directory**. If   you change the directory, this sign will vanish. ![](../../.gitbook/assets/working-directory.png) 
-4. The '$' sign suggests that you are working as a regular user in Linux. While working as a root user, '\#' is displayed. ![](../../.gitbook/assets/root-user.png) 
+* The first part of the line is the name of the user \(vijay\).
+* The second part is the computer name or the host name.
+* The tilde '~' sign shows that the user in working in the **home directory**. If   you change the directory, this sign will vanish.
+
+![](../../.gitbook/assets/working-directory.png)
+
+* The '$' sign suggests that you are working as a regular user in Linux. While working as a root user, '\#' is displayed. 
+
+![](../../.gitbook/assets/root-user.png)
 
 
 
