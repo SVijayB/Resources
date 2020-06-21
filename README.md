@@ -28,6 +28,14 @@ This is an attempt at solving that problem. It also,  saves them on the cloud fo
 
 Hey! This is Vijay. I'm a Data Science Aspirant and a Programming Enthusiast. I live by the words of Gabrielle Bernstein, “Allow your passion to become your purpose, and it will one day become your profession.” I'm an active Open Source Contributor. I love to solve riddling algorithmic problems. 
 
+## Issues or Requests
+
+If you have any issue with the web-pages not loading or any other font/visibility problems, feel free to let me know by creating an Issue. To do so, click [here](https://github.com/SVijayB/Resources/issues).
+
+If you want me to create notes or provide resources for any other topic you are interested in learning, feel free to create an issue requesting for a feature.
+
+You can also create an issue if you have any questions regarding anything related to me or this project.
+
 ## Social Links
 
 * [Portfolio](https://www.vijaybalaji.social/)
@@ -35,8 +43,6 @@ Hey! This is Vijay. I'm a Data Science Aspirant and a Programming Enthusiast. I 
 * [GitHub](https://github.com/SVijayB)
 * [LinkedIn](https://www.linkedin.com/in/vijay-balaji-s-260010186/)
 * [Steam](https://steamcommunity.com/id/strangelychaotic/)
-
-
 
 
 
