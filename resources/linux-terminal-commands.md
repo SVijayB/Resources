@@ -4,6 +4,8 @@ description: Getting started with using the terminal on Linux
 
 # Linux Terminal Commands
 
+![Ubuntu terminal](../.gitbook/assets/linux.png)
+
 The first question that pops into your mind would probably be, why learn these commands? 
 
 The answer to that question is actually quite simple and straightforward.  **Terminal** is one of the most important applications on your computer. If you ever want to be a **coder** or work in a tech team as a developer, product manager, or any other tech role, you'll have a **big advantage** if you're already comfortable with **basic commands**. But anyone who uses a computer will benefit from becoming comfortable with this essential tool!

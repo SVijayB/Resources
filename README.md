@@ -30,13 +30,11 @@ Hey! This is Vijay. I'm a Data Science Aspirant and a Programming Enthusiast. I 
 
 ## Social Links
 
-* [Portfolio](www.vijaybalaji.social)
+* [Portfolio](https://www.vijaybalaji.social/)
 * [Technical Blog](https://svijayb.github.io/Blog)
 * [GitHub](https://github.com/SVijayB)
 * [LinkedIn](https://www.linkedin.com/in/vijay-balaji-s-260010186/)
 * [Steam](https://steamcommunity.com/id/strangelychaotic/)
-
-
 
 
 
