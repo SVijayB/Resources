@@ -16,5 +16,6 @@
   * [Committing Changes](resources/git-and-github-resources/committing-changes.md)
   * [Deleting Commits](resources/git-and-github-resources/deleting-commits.md)
   * [Branching](resources/git-and-github-resources/branching.md)
+  * [Connecting To GitHub](resources/git-and-github-resources/connecting-to-github.md)
   * [Miscellaneous](resources/git-and-github-resources/miscellaneous.md)
 
